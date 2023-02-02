@@ -1,0 +1,45 @@
+:root {
+  font-family: sans-serif;
+  font-size: calc(1em + 2vmin + 2vmax);
+  line-height: 1.5;
+}
+
+:focus {
+  outline: thick groove;
+}
+
+.free {
+  margin: auto;
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+.wavy {
+  text-decoration-style: wavy;
+}
+
+main {
+  padding: 1em;
+}
+
+figure {
+  margin: auto;
+  margin-block-end: 10vh;
+}
+
+figure {
+  margin: auto;
+  margin-block-end: 10vh;
+}
+
+figcaption {
+  display: flex;
+  flex-wrap: wrap;
+  margin-block-end: 30vh;
+}
+
+.wah {
+  letter-spacing: 1ex;
+}
